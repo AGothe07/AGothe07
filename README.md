@@ -38,5 +38,5 @@ Busco oportunidades de estágio onde eu possa aplicar meus conhecimentos, aprend
 <p>
   <img align="left" alt="Arthur's GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=AGothe07&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
 
-  <img align="left" alt="Top Languages" height="200" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=AGothe07&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9](https://camo.githubusercontent.com/832932093de42602fb8fe510924ef2cf295c0f8352da8768726e3f4b14abc081/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d41476f7468653037267468656d653d746f6b796f6e69676874266c61796f75743d636f6d7061637426637573746f6d5f7469746c653d5465636e6f6c6f67696173266c616e67735f636f756e743d39)"/>
+  <img align="left" alt="Top Languages" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AGothe07&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9)"/>
 </p>
